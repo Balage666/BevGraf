@@ -1,0 +1,7 @@
+C:\Users\Karácsony Balázs\Desktop\5. félév\Bevgraf\LineDrawer\LineDrawer\bin\Debug\LineDrawer.exe.config
+C:\Users\Karácsony Balázs\Desktop\5. félév\Bevgraf\LineDrawer\LineDrawer\bin\Debug\LineDrawer.exe
+C:\Users\Karácsony Balázs\Desktop\5. félév\Bevgraf\LineDrawer\LineDrawer\bin\Debug\LineDrawer.pdb
+C:\Users\Karácsony Balázs\Desktop\5. félév\Bevgraf\LineDrawer\LineDrawer\obj\Debug\LineDrawer.csproj.AssemblyReference.cache
+C:\Users\Karácsony Balázs\Desktop\5. félév\Bevgraf\LineDrawer\LineDrawer\obj\Debug\LineDrawer.csproj.CoreCompileInputs.cache
+C:\Users\Karácsony Balázs\Desktop\5. félév\Bevgraf\LineDrawer\LineDrawer\obj\Debug\LineDrawer.exe
+C:\Users\Karácsony Balázs\Desktop\5. félév\Bevgraf\LineDrawer\LineDrawer\obj\Debug\LineDrawer.pdb
