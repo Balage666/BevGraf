@@ -47,7 +47,6 @@ namespace LineDrawer
 
                 x += xIncrement;
                 y += yIncrement;
-                // delay(10);
             }
 
             return symbols;
